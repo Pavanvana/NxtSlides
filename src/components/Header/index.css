@@ -1,0 +1,15 @@
+.Header-container {
+  display: flex;
+  align-items: center;
+  background-color: #dbeafe;
+}
+.website-logo {
+  width: 100px;
+  margin-right: 20px;
+  margin-left: 20px;
+}
+.website-heading {
+  font-family: Bree Serif;
+  font-weight: 500;
+  font-size: 40px;
+}
